@@ -5289,7 +5289,6 @@
 127.0.0.1 iwx.smoba.qq.com
 127.0.0.1 iwxb.cfm.qq.com
 127.0.0.1 iwxft.smoba.qq.com
-127.0.0.1 iyuji.cn
 127.0.0.1 jac-test.starnetah.com
 127.0.0.1 jakseque.com
 127.0.0.1 jarw.com.cn
@@ -8513,7 +8512,6 @@
 127.0.0.1 www.issedu.com
 127.0.0.1 www.it168.com
 127.0.0.1 www.iyaoxiang.com
-127.0.0.1 www.iyuji.cn
 127.0.0.1 www.jac.com.cn
 127.0.0.1 www.jayhoo.top
 127.0.0.1 www.jerei.com
