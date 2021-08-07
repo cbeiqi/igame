@@ -7,7 +7,7 @@
 ::1 ip6-localhost
 ::1 ip6-loopback
 
-
+183.194.234.62 api.pr.weixin.qq.com
 127.0.0.1 qosidc.gcloudsdk.com
 127.0.0.1 qos.gcloud.qq.com
 127.0.0.1 qosidc.gcloud.qq.com
