@@ -7,8 +7,7 @@
 ::1 ip6-localhost
 ::1 ip6-loopback
 
-#127.0.0.1 down-update.qq.com
-#127.0.0.1 wx.qlogo.cn
+
 127.0.0.1 qosidc.gcloudsdk.com
 127.0.0.1 qos.gcloud.qq.com
 127.0.0.1 qosidc.gcloud.qq.com
@@ -934,7 +933,7 @@
 127.0.0.1 sq.qq.com
 127.0.0.1 tgp.qq.com
 127.0.0.1 res.gamebbs.qq.com
-#127.0.0.1 thirdqq.qlogo.cn
+
 127.0.0.1 qzapp.qlogo.cn
 127.0.0.1 hb.qlogo.cn
 127.0.0.1 thirdqq4.qlogo.cn
@@ -969,7 +968,6 @@
 127.0.0.1 txwz.qq.com
 ################################################8.06
 127.0.0.1  cs.gcloud.qq.com
-#127.0.0.1  mobile.opensdk.com
 127.0.0.1  sqlobby.pg.qq.com
 127.0.0.1 0.0.wode490390.cn
 127.0.0.1 0.amazon.pool.ntp.org
@@ -3047,7 +3045,6 @@
 127.0.0.1 api.map.soso.com
 127.0.0.1 api.mapbar.com
 127.0.0.1 api.mobaiwx.com
-127.0.0.1 api.pr.weixin.qq.com
 127.0.0.1 api.qbgame.qq.com
 127.0.0.1 api.qiecdn.com
 127.0.0.1 api.ribaoapi.com
@@ -3611,7 +3608,6 @@
 127.0.0.1 cfw.gamebbs.qq.com
 127.0.0.1 cgcol.amap.com
 127.0.0.1 cggeffgbbfgcefjhgbg.ru
-#127.0.0.1 cgi.connect.qq.com
 127.0.0.1 cgi.kandian.qq.com
 127.0.0.1 cgi.pub.qq.com
 127.0.0.1 cgi.urlsec.qq.com
@@ -3633,7 +3629,7 @@
 127.0.0.1 chat.wode490390.cn
 127.0.0.1 chaye.3158.cn
 127.0.0.1 chc.f3322.net
-#127.0.0.1 check.ptlogin2.qq.com
+
 127.0.0.1 checkifyouarealive.me
 127.0.0.1 checksum.cc
 127.0.0.1 chewsrompedhemp.com
@@ -5192,8 +5188,7 @@
 127.0.0.1 imgbdb2.bendibao.com
 127.0.0.1 imgbdb3.bendibao.com
 127.0.0.1 imgcache.gtimg.cn
-#127.0.0.1 imgcache.qq.com
-#127.0.0.1 imgcache.tc.qq.com
+
 127.0.0.1 imgcdn-chuxingyouhui-com-idvbw24.qiniudns.com
 127.0.0.1 imgcdn.chuxingyouhui.com
 127.0.0.1 imgcdn.gongyi.qq.com
@@ -6364,7 +6359,7 @@
 127.0.0.1 open.tu.qq.com
 127.0.0.1 open.wode490390.cn
 127.0.0.1 openapi.guanjia.qq.com
-#127.0.0.1 openmobile.qq.com
+
 127.0.0.1 opensource.google.com
 127.0.0.1 openxgpre.cnsuning.com
 127.0.0.1 opp667799.5166.info
@@ -6650,7 +6645,7 @@
 127.0.0.1 psoageeb.com
 127.0.0.1 pstatp.ugcvideoss.ourdvs.com
 127.0.0.1 ptd.94you.net
-#127.0.0.1 ptlogin.qq.com
+
 127.0.0.1 ptlogin2.108.qq.com
 127.0.0.1 ptlogin2.crm2.qq.com
 127.0.0.1 ptlogin2.meigui.qq.com

@@ -18186,7 +18186,6 @@
 ||zzz.wode490390.cn^
 ||zzz1818.com^
 ||zzzds.cn^
-||api.pr.weixin.qq.com^
 ||a.weixin.qq.com^
 ||ad.weixin.qq.com^
 ||as.weixin.qq.com^
