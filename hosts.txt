@@ -1,4 +1,4 @@
-###########最新8.07版1
+###########最新8.07版
 ###########2021.08.06
 127.0.0.1 localhost
 127.0.0.1 ip6-localhost
@@ -8302,9 +8302,6 @@
 127.0.0.1 www.awezz.com
 127.0.0.1 www.baicmotor.com
 127.0.0.1 www.baidu.cn
-127.0.0.1 www.baidu.com
-127.0.0.1 www.baidu.com$important
-127.0.0.1 www.baidu.com.cn
 127.0.0.1 www.baishancloud.com
 127.0.0.1 www.bandpage.com
 127.0.0.1 www.baomihua.com
