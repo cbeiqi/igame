@@ -1,4 +1,4 @@
-###########最新8.07版
+###########最新8.07版1
 ###########2021.08.06
 127.0.0.1 localhost
 127.0.0.1 ip6-localhost
@@ -36,7 +36,6 @@
 127.0.0.1 mig.str.mdt.qq.com
 127.0.0.1 cntgw.tiantang.qq.com
 127.0.0.1 tools.tmga.qq.com
-127.0.0.1 capi.voice.gcloud.qq.com
 127.0.0.1 wzry.broker.tplay.qq.com
 127.0.0.1 yxzj.broker.tplay.qq.com
 127.0.0.1 control.mocmna.qq.com
@@ -441,7 +440,6 @@
 127.0.0.1  qosidc.gcloud.qq.com
 127.0.0.1  thirdwx.qlogo.cn
 127.0.0.1  cwx.qlogo.cn
-127.0.0.1  capi.voice.gcloud.qq.com
 127.0.0.1  master.solar.qq.com
 127.0.0.1  cdn.cn.gcloudcs.com
 127.0.0.1  aqq.smoba.qq.com
@@ -1206,22 +1204,6 @@
 127.0.0.1 180.153.162.111
 127.0.0.1 180.163.21.48
 127.0.0.1 1802272.s148i.faiusr.com
-127.0.0.1 182.254.10.42
-127.0.0.1 182.254.116.117
-127.0.0.1 182.254.116.117/d?dn=wzry.broker.tplay.qq.com&ttl=1
-127.0.0.1 182.254.74.48
-127.0.0.1 182.254.88.150
-127.0.0.1 183.192.192.158
-127.0.0.1 183.192.192.162
-127.0.0.1 183.192.196.182
-127.0.0.1 183.192.199.25
-127.0.0.1 183.192.200.59
-127.0.0.1 183.192.202.
-127.0.0.1 183.194.237.216:31003
-127.0.0.1 183.194.238.
-127.0.0.1 183.203.17.14
-127.0.0.1 183.232.98.178
-127.0.0.1 183.3.253.72
 127.0.0.1 183556550.f3322.net
 127.0.0.1 18430.livepush.myqcloud.com
 127.0.0.1 1866.123nat.com
@@ -3485,7 +3467,6 @@
 127.0.0.1 cache.wode490390.cn
 127.0.0.1 caesar168.net
 127.0.0.1 cafe-6501.business.site
-127.0.0.1 caipi.voice.gcloud.qq.com
 127.0.0.1 caixiaobin.jios.org
 127.0.0.1 cakechina.cn
 127.0.0.1 calendar.google.com
@@ -3497,7 +3478,6 @@
 127.0.0.1 canon.zol.com.cn
 127.0.0.1 canyin.3158.cn
 127.0.0.1 caoliuroom.blog.chinaunix.net
-127.0.0.1 capi.voice.gcloud.qq.com 
 127.0.0.1 capyestern.com
 127.0.0.1 car.ximalaya.com
 127.0.0.1 card.wifibanlv.com
@@ -3546,7 +3526,6 @@
 127.0.0.1 cdn-hw.0415shmj.com
 127.0.0.1 cdn-hw.yzrunxing.com
 127.0.0.1 cdn-out.iqy.sc96655.com.wsdvs.com
-127.0.0.1 cdn-voice.smart-tv.cn
 127.0.0.1 cdn.5a2by.cn
 127.0.0.1 cdn.5a2by.cn.c.cdnhwc1.com
 127.0.0.1 cdn.6336236.com
@@ -7957,8 +7936,6 @@
 127.0.0.1 vodplay.xdysoft.com
 127.0.0.1 vodrs1st.videoss.ourdvs.com
 127.0.0.1 vodu8hrjk6k.vod.126.net
-127.0.0.1 voice.google.com
-127.0.0.1 voicecdn.haowanyou.com
 127.0.0.1 voledevice-pa.googleapis.com
 127.0.0.1 vone.page.link
 127.0.0.1 voppo2.go2yd.com
@@ -9410,8 +9387,6 @@
 127.0.0.1 www.52ss.com
 127.0.0.1 www.176wa.com
 ######8.07
-127.0.0.1 0gq2p7eckbs26f.mwcname.com
-127.0.0.1 mobile.opensdk.com
 127.0.0.1 1-4-5-wf-go-baidu.com.hcddhq.wang
 127.0.0.1 10.215.153.15
 127.0.0.1 101.226.211.233
