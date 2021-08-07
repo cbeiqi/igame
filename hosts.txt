@@ -4613,9 +4613,6 @@
 127.0.0.1 game234.com
 127.0.0.1 gamecenter.c7wn.com
 127.0.0.1 gameeve.beacon.qq.com
-127.0.0.1 gameguardian.cn
-127.0.0.1 gameguardian.com
-127.0.0.1 gameguardian.net
 127.0.0.1 gameopt.qq.com
 127.0.0.1 games.ifeng.com
 127.0.0.1 gamesres.ultralisk.cn
