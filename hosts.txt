@@ -1,4 +1,4 @@
-###########最新8.07版
+###########最新8.07版２２
 ###########2021.08.06
 127.0.0.1 localhost
 127.0.0.1 ip6-localhost
@@ -9730,3 +9730,31 @@
 127.0.0.1 zy.cisri.cn
 127.0.0.1 zzmht.gov.cn
 183.192.196.182 game.eve.mdt.qq.com
+＃＃＃＃＃８．０９
+127.0.0.1 www.txfund.com
+127.0.0.1 qian.ehowbuy.com
+127.0.0.1 lct.avictc.com
+127.0.0.1 4000111000.114.qq.com
+127.0.0.1 pp.myapp.com
+127.0.0.1 pgdt.ugdtimg.com.tcdn.qq.com
+127.0.0.1 av.xvideos88.buzz
+127.0.0.1 angel.xepp.qq.com
+127.0.0.1 mp.weixinbridge.com
+127.0.0.1 servicewechat.com
+127.0.0.1 developers.weixin.qq.com
+127.0.0.1 rd.wechat.com
+127.0.0.1 ad.weixin.qq.com
+127.0.0.1 game.weixin.qq.com
+127.0.0.1 mpv6.weixin.qq.com
+127.0.0.1 live.weixin.qq.com
+127.0.0.1 gamemaker.weixin.qq.com
+127.0.0.1 a.weixin.qq.com
+127.0.0.1 izhuye.weixinbridge.com
+127.0.0.1 as.weixin.qq.com
+127.0.0.1 beta.myapp.com
+127.0.0.1 qqvip-web.cdn-go.cn
+127.0.0.1 qbosslargevideo.gtimg.cn
+127.0.0.1 tjaqq.smoba.qq.com
+127.0.0.1 gamer.cdn-go.cn
+127.0.0.1 qq-web.cdn-go.cn
+127.0.0.1 down.pandora.qq.com.sched.dlied1.tdnsv5
