@@ -6022,7 +6022,6 @@
 127.0.0.1 mp.cc
 127.0.0.1 mp.picclife.cn
 127.0.0.1 mp.ssl.captcha.qq.com
-127.0.0.1 mp.weixin.qq.com
 127.0.0.1 mp.wsq.qq.com
 127.0.0.1 mp3.bookmall.com.cn
 127.0.0.1 mp4-ws.vod.tv.itc.cn
