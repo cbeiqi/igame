@@ -6888,8 +6888,6 @@
 127.0.0.1 res.uzone8.com
 127.0.0.1 res.vmallres.com
 127.0.0.1 res.wode490390.cn
-127.0.0.1 res.wx.qq.com
-127.0.0.1 res.wx.qq.com.sched.ssdv6.tdnsv6.com
 127.0.0.1 res.yanzhan.37wan.com
 127.0.0.1 res0.vmallres.com
 127.0.0.1 res06.bignox.com
