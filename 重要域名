@@ -11,4 +11,6 @@ openmobile.qq.com
 cgi.connect.qq.com
 
 mp.weixin.qq.com
+127.0.0.1 res.wx.qq.com
+127.0.0.1 res.wx.qq.com.sched.ssdv6.tdnsv6.com
 127.0.0.1 www.iyuji.cn
