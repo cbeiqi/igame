@@ -5986,7 +5986,6 @@
 127.0.0.1 mo.pool.ntp.org
 127.0.0.1 mob.wode490390.cn
 127.0.0.1 mobile-gtalk.l.google.com
-127.0.0.1 mobile.opensdk.com
 127.0.0.1 mobile.wode490390.cn
 127.0.0.1 mobile.zol.com.cn
 127.0.0.1 mobilecdn.kugou.com
@@ -16981,7 +16980,6 @@
 127.0.0.1 open.toutiao.com
 127.0.0.1 open.tv.qq.com
 127.0.0.1 open.uc.cn
-127.0.0.1 open.weixin.qq.com
 127.0.0.1 open2.bmob.cn
 127.0.0.1 openapi-fxg.jinritemai.com
 127.0.0.1 openapi-moneyloan.snssdk.com
