@@ -2812,7 +2812,6 @@
 127.0.0.1 a.binpartner.com
 127.0.0.1 a.dirtyasmr.com
 127.0.0.1 a.https.qq.com
-127.0.0.1 a.ssl.msdk.qq.com
 127.0.0.1 a.szjdlqy.com
 127.0.0.1 a.whrxhbj.com
 127.0.0.1 a.youyour.vip
