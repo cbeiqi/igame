@@ -19673,7 +19673,6 @@
 127.0.0.1 w.8-9.pw
 127.0.0.1 w.aq.qq.com
 127.0.0.1 w.auto.qq.com
-127.0.0.1 w.eydata.net
 127.0.0.1 w.inews.qq.com
 127.0.0.1 w.mail.qq.com
 127.0.0.1 w.p.imoxiu.com
@@ -19681,14 +19680,9 @@
 127.0.0.1 w.tancdn.com
 127.0.0.1 w.webankcdn.net
 127.0.0.1 w1.aa25811.com
-127.0.0.1 w1.eydata.net
 127.0.0.1 w12356.com
-127.0.0.1 w2.eydata.net
 127.0.0.1 w29.com
 127.0.0.1 w2i.wanmei.com
-127.0.0.1 w3.eydata.net
-127.0.0.1 w4.eydata.net
-127.0.0.1 w5.eydata.net
 127.0.0.1 w5x.com
 127.0.0.1 w810.cn
 127.0.0.1 wa.gtimg.com.cloud.tc.qq.com
