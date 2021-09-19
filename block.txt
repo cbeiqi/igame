@@ -3337,7 +3337,6 @@
 *:38318$network
 *:443$network
 *:45322$network
-*:80$network
 *:49052$network
 *:37328$network
 *:20297$network
