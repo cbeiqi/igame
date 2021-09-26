@@ -109,7 +109,7 @@
 127.0.0.1 ap6.ssl.msdk.qq.com
 127.0.0.1 ip6.ssl.msdk.qq.com
 127.0.0.1 ssl.msdk.qq.com
-127.0.0.1 da.ssl.msdk.qq.com
+
 127.0.0.1 di.ssl.msdk.qq.com
 127.0.0.1 i.ssl.msdk.qq.com
 127.0.0.1 business.tenpay.com
@@ -23604,18 +23604,18 @@
 127.0.0.1 zzzttt.app
 127.0.0.1 zzzttt.me
 
-127.0.0.1 a.ssl.msdk.qq.com
+
 127.0.0.1 avavav.xnfxxx.xyz
-127.0.0.1 cn.voice.gcloudcs.com
-127.0.0.1 cwx.qlogo.cn
+
+
 127.0.0.1 jsonatm.broker.tplay.qq.com
 127.0.0.1 msdkdev.qq.com
 127.0.0.1 msdktest.qq.com
 127.0.0.1 sn.tai.qq.com
-127.0.0.1 thirdwx.qlogo.cn
+
 127.0.0.1 wmap.qq.com
 127.0.0.1 ws.wemeet.tencent.com
-127.0.0.1 wx.qlogo.cn
+
 127.0.0.1 xvideos.xxsaobi.xyz
 127.0.0.1 yxzj.broker.tplay.qq.com
 127.0.0.1 100.98321.com
@@ -23706,7 +23706,7 @@
 127.0.0.1 recruit.qq.com
 127.0.0.1 recruitment.qq.com
 127.0.0.1 report.qqweb.qq.com
-127.0.0.1 res.wx.qq.com
+
 127.0.0.1 rzrj888.com
 127.0.0.1 sdwfxs.iask.in
 127.0.0.1 simplie.net
@@ -23716,7 +23716,7 @@
 127.0.0.1 thirdapp1.qlogo.cn
 127.0.0.1 thirdapp2.qlogo.cn
 127.0.0.1 thirdapp3.qlogo.cn
-127.0.0.1 thirdqq.qlogo.cn
+
 127.0.0.1 thirdqq0.qlogo.cn
 127.0.0.1 thirdqq1.qlogo.cn
 127.0.0.1 thirdqq2.qlogo.cn
