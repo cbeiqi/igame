@@ -21109,7 +21109,6 @@
 127.0.0.1 www.huoshanzhibo.com
 127.0.0.1 www.husini8.com
 127.0.0.1 www.husiniba.com
-127.0.0.1 www.huya.com
 127.0.0.1 www.huzjx.com
 127.0.0.1 www.hwjyw.com
 127.0.0.1 www.hwqw.xyz
