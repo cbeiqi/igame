@@ -3246,8 +3246,6 @@
 127.0.0.1 bigtable.googleapis.com
 127.0.0.1 bigtableadmin.googleapis.com
 127.0.0.1 bikesopden.com
-127.0.0.1 bilibili.com
-127.0.0.1 bilibiliav.com
 127.0.0.1 bilibilifaka.com
 127.0.0.1 bional-dested.icu
 127.0.0.1 bitads.io
