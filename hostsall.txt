@@ -6056,7 +6056,6 @@
 127.0.0.1 net.wode490390.cn
 127.0.0.1 net.zol.com.cn
 127.0.0.1 netcncosts.inter.iqiyi.com
-127.0.0.1 netcraft-cdn.huya.com
 127.0.0.1 netease.ugcvideoss.ourdvs.com
 127.0.0.1 netease.videoss.ourdvs.com
 127.0.0.1 neteasedl.dlmixss.ourdvs.com
@@ -7953,16 +7952,11 @@
 127.0.0.1 wrt.windken.top
 127.0.0.1 ws.cdn.xuetangx.com
 127.0.0.1 ws.cdn.xuetangx.com.cdn20.com
-127.0.0.1 ws.p2p.huya.com
 127.0.0.1 ws.pull.yximgs.com
 127.0.0.1 ws.stream.fm.qq.com
-127.0.0.1 ws.stream.huya.com
 127.0.0.1 ws.stream.kg.qq.com
 127.0.0.1 ws.stream.qqmusic.qq.com
-127.0.0.1 ws.streamhls.huya.com
 127.0.0.1 ws01.pull.yximgs.com
-127.0.0.1 ws4.stream.huya.com
-127.0.0.1 ws4.streamhls.huya.com
 127.0.0.1 ws6.stream.qqmusic.qq.com
 127.0.0.1 ws7.egbgedu.com
 127.0.0.1 ws8h.com
@@ -11462,7 +11456,6 @@
 127.0.0.1 alivideo.zhihuishu.com
 127.0.0.1 alivod.lespark.cn
 127.0.0.1 aliwork.alicdn.com
-127.0.0.1 aliws.cdn.huya.com
 127.0.0.1 aliyun.bugscaner.com
 127.0.0.1 aliyun.downstream.yy.com
 127.0.0.1 aliyun3a-live.bestvcdn.com.cn
@@ -12119,7 +12112,6 @@
 127.0.0.1 blog.ceyun.cc
 127.0.0.1 blog.coding.net
 127.0.0.1 blog.cz001.com.cn
-127.0.0.1 blog.huya.com
 127.0.0.1 blog.imqq.com
 127.0.0.1 blog.isafe.site
 127.0.0.1 blog.lele2.cc
@@ -12404,7 +12396,6 @@
 127.0.0.1 cdn.vip.longqisheng.com.cn
 127.0.0.1 cdn.weather.hao.360.cn
 127.0.0.1 cdn.wjlnb.com
-127.0.0.1 cdn.wup.huya.com
 127.0.0.1 cdn.xylink.com.w.kunlunar.com
 127.0.0.1 cdn.zcc9.com
 127.0.0.1 cdn.zj96596.com
@@ -12498,7 +12489,6 @@
 127.0.0.1 chenzhizuo.cn.w.kunlunsl.com
 127.0.0.1 chenzhou.house.qq.com
 127.0.0.1 chenzhou.huatu.com
-127.0.0.1 chgate.huya.com
 127.0.0.1 chibi.37.com
 127.0.0.1 chibi.qq.com
 127.0.0.1 chicken.qq.com
@@ -12619,7 +12609,6 @@
 127.0.0.1 cmshow.gtmg.cn
 127.0.0.1 cmsjs.eastmoney.com
 127.0.0.1 cmspromo.alipay.com
-127.0.0.1 cmsstatic.huya.com
 127.0.0.1 cmu.qq.com
 127.0.0.1 cn-n1-cell5.leancloud.cn
 127.0.0.1 cn-vmc-images.alicdn.com
@@ -14222,7 +14211,6 @@
 127.0.0.1 hcrlm2.wsq.umeng.com
 127.0.0.1 hcygs.cn
 127.0.0.1 hcz-static.pingan.com.cn
-127.0.0.1 hd.huya.com
 127.0.0.1 hd.qpgame.com
 127.0.0.1 hd.res.netease.com
 127.0.0.1 hd.wenming.cn
@@ -14543,7 +14531,6 @@
 127.0.0.1 huoying.qq.com
 127.0.0.1 hututu.wodemo.com
 127.0.0.1 hux3600.com
-127.0.0.1 huya.duowan.com
 127.0.0.1 huzan.3414m.cn
 127.0.0.1 huzhou.jia.com
 127.0.0.1 hvcqr.cn
@@ -15410,7 +15397,6 @@
 127.0.0.1 kzdyf.yao.95095.com
 127.0.0.1 l.gm.mob.com
 127.0.0.1 l.qiandazhibo.com
-127.0.0.1 l.web.huya.com
 127.0.0.1 l.wode490390.cn
 127.0.0.1 l.xs.0ctrl.com
 127.0.0.1 l.xs.owe11.com
@@ -15835,7 +15821,6 @@
 127.0.0.1 m.huawei.com
 127.0.0.1 m.huijiawang.cc
 127.0.0.1 m.huoyunys.com
-127.0.0.1 m.huya.com
 127.0.0.1 m.hxnews.com
 127.0.0.1 m.iask.sina.com.cn
 127.0.0.1 m.igola.com
@@ -18472,7 +18457,6 @@
 127.0.0.1 status.amap.com
 127.0.0.1 status.coding.net
 127.0.0.1 statusapi.micloud.xiaomi.net
-127.0.0.1 statwup.huya.com
 127.0.0.1 stboy.net
 127.0.0.1 stc.zhulang.com
 127.0.0.1 stcmih.guahao.com
@@ -19198,7 +19182,6 @@
 127.0.0.1 v.ccdi.gov.cn
 127.0.0.1 v.douyin.com
 127.0.0.1 v.html5.qq.com
-127.0.0.1 v.huya.com
 127.0.0.1 v.icbc.com.cn
 127.0.0.1 v.iqilu.com
 127.0.0.1 v.kandian.qq.com
@@ -23605,7 +23588,6 @@
 127.0.0.1 avavav.xnfxxx.xyz
 
 
-127.0.0.1 jsonatm.broker.tplay.qq.com
 127.0.0.1 msdkdev.qq.com
 127.0.0.1 msdktest.qq.com
 127.0.0.1 sn.tai.qq.com
@@ -23614,7 +23596,6 @@
 127.0.0.1 ws.wemeet.tencent.com
 
 127.0.0.1 xvideos.xxsaobi.xyz
-127.0.0.1 yxzj.broker.tplay.qq.com
 127.0.0.1 100.98321.com
 127.0.0.1 1172725746.uttcare.com
 127.0.0.1 13350466.iplink.com.cn
@@ -23652,7 +23633,6 @@
 127.0.0.1 hbycfyg.xyz
 127.0.0.1 hiwx.f3322.net
 127.0.0.1 hnxysy.f3322.net
-127.0.0.1 hx.broker.tplay.qq.com
 127.0.0.1 hzfcsy.com
 127.0.0.1 imgcache.qq.com
 127.0.0.1 imgcache.tc.qq.com
@@ -23770,10 +23750,7 @@
 127.0.0.1 ins-5776sx9h.ias.tencent-cloud.net
 127.0.0.1 4001680303.114.qq.com
 127.0.0.1 awxcs.smoba.qq.com
-127.0.0.1 wzry.broker.tplay.qq.com
 127.0.0.1 611968310.114.qq.com
-127.0.0.1 android.bugly.qq.com
-127.0.0.1 bugly.qq.com
 127.0.0.1 0001av.com
 127.0.0.1 000250.cc
 127.0.0.1 000349.cc
@@ -25923,7 +25900,6 @@
 127.0.0.1 i6686.com
 127.0.0.1 i906588.com
 127.0.0.1 i9l.media
-127.0.0.1 iauth-sandbox.wecity.qq.com
 127.0.0.1 ibet2289.com
 127.0.0.1 id.tudou.com
 127.0.0.1 ieohd-vh.akamaihd.net
@@ -26287,8 +26263,6 @@
 127.0.0.1 me.qidian.com
 127.0.0.1 mea.meitudata.com
 127.0.0.1 mearsmotors.com
-127.0.0.1 med-biz-pre.wecity.qq.com
-127.0.0.1 med-biz.wecity.qq.com
 127.0.0.1 media-akam.licdn.com
 127.0.0.1 media.buyee.jp
 127.0.0.1 media.graytvinc.com
@@ -26551,7 +26525,6 @@
 127.0.0.1 ptlogin4.t.qq.com
 127.0.0.1 ptlogin4.tenpay.com
 127.0.0.1 ptlogin4.web2.qq.com
-127.0.0.1 ptlogin4.y.qq.com
 127.0.0.1 pub.dev
 127.0.0.1 pubg.op.gg
 127.0.0.1 pubhub.com
@@ -26654,7 +26627,6 @@
 127.0.0.1 s.music.qq.com
 127.0.0.1 s.storage.akamai.coub.com
 127.0.0.1 s.xs8.cn
-127.0.0.1 s.y.qq.com
 127.0.0.1 s02999.com
 127.0.0.1 s06661.com
 127.0.0.1 s1.51cto.com
@@ -26679,7 +26651,6 @@
 127.0.0.1 sa.windows.com
 127.0.0.1 sanfrancisco.giants.mlb.com
 127.0.0.1 saufs.foreign.coloros.com
-127.0.0.1 say.qq.com
 127.0.0.1 sbmubai.icu
 127.0.0.1 sbui.e-wsi.com
 127.0.0.1 sc.hkex.com.hk
@@ -26687,7 +26658,6 @@
 127.0.0.1 scr888slot.strikingly.com
 127.0.0.1 sd5578.com
 127.0.0.1 sdcp206.com
-127.0.0.1 sdi.wecity.qq.com
 127.0.0.1 sdk.sascdn.com
 127.0.0.1 sdxjmy.cn
 127.0.0.1 se.5nxx.coomwww.leqi.infovip.qzone.com
@@ -26836,7 +26806,6 @@
 127.0.0.1 svp.cdn.qq.com
 127.0.0.1 swww.992tv.com
 127.0.0.1 sxyprn.com
-127.0.0.1 sy.qq.com
 127.0.0.1 sy77.com
 127.0.0.1 sylvain.skycdn.com.cn
 127.0.0.1 sz.ihk.cn
@@ -26950,7 +26919,6 @@
 127.0.0.1 twcdn.gnjoy.com.tw
 127.0.0.1 twheroes.arenadownload.nexon.com
 127.0.0.1 txcdn.zb.qq.com
-127.0.0.1 ty.qq.com
 127.0.0.1 ty1.goetech.cn
 127.0.0.1 ty4411.com
 127.0.0.1 ty4433.com
@@ -28712,7 +28680,6 @@
 127.0.0.1 www.hungrypanda.co
 127.0.0.1 www.huobi.af
 127.0.0.1 www.huohuvip1.com
-127.0.0.1 www.huya.com
 127.0.0.1 www.hxcbb17.com
 127.0.0.1 www.hxcbb18.com
 127.0.0.1 www.hxcbb20.com
