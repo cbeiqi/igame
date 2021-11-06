@@ -5670,19 +5670,11 @@
 127.0.0.1 m.youpintao188.com
 127.0.0.1 m.zhudaye.com
 127.0.0.1 m.zol.com.cn
-127.0.0.1 m10.music.126.net
-127.0.0.1 m10.music.126.net.wscdns.com
-127.0.0.1 m11.music.126.net
 127.0.0.1 m2.googleapis.com
 127.0.0.1 m3u8.sctv.com
 127.0.0.1 m3u8.sctv.com.wsdvs.com
 127.0.0.1 m3u8i2.vodfile.m1905.com
-127.0.0.1 m7.music.126.net
-127.0.0.1 m7.music.126.net.cdnga.net
-127.0.0.1 m7c.music.126.net
-127.0.0.1 m801.music.126.net
 127.0.0.1 m898989.com
-127.0.0.1 m8c.music.126.net
 127.0.0.1 m90ys.top
 127.0.0.1 ma.pool.ntp.org
 127.0.0.1 ma32.gdl.netease.com
@@ -6295,21 +6287,18 @@
 127.0.0.1 p.whrxhbj.com
 127.0.0.1 p1.czyoubanggd.com
 127.0.0.1 p1.map.gtimg.com
-127.0.0.1 p1.music.126.net
 127.0.0.1 p1.tc.qq.com
 127.0.0.1 p1.xf0371.com
 127.0.0.1 p2-cdn.aoborl.com
 127.0.0.1 p2.kkgoo.cn
 127.0.0.1 p26.douyinpic.com
 127.0.0.1 p28.cache.qcloudcdn.com
-127.0.0.1 p2c.music.126.net
 127.0.0.1 p2c.wode490390.cn
 127.0.0.1 p2p.wode490390.cn
 127.0.0.1 p2p0901.plures.net
 127.0.0.1 p2pchunk-ws.douyucdn.cn
 127.0.0.1 p2pvod-ws.douyucdn.cn
 127.0.0.1 p2s.wode490390.cn
-127.0.0.1 p3.music.126.net
 127.0.0.1 p3v.cn
 127.0.0.1 p64gk2yhba0p.com
 127.0.0.1 p9-dy.byteimg.com
@@ -7400,7 +7389,6 @@
 127.0.0.1 th.pool.ntp.org
 127.0.0.1 theme-drcn.dbankcdn.com
 127.0.0.1 themoneytizer.net
-127.0.0.1 thirdparty.gtimg.com
 127.0.0.1 thispositionw.biz
 127.0.0.1 thkjznjj.f3322.net
 127.0.0.1 thompaur.com
@@ -7680,7 +7668,6 @@
 127.0.0.1 v2.xmyimg.com
 127.0.0.1 v26-dy-ipv6.ixigua.com
 127.0.0.1 v26-dy.ixigua.com
-127.0.0.1 v4.music.126.net
 127.0.0.1 v4.pstatp.com
 127.0.0.1 v9-dy-x.ixigua.com
 127.0.0.1 v9-dy.ixigua.com
@@ -8879,7 +8866,6 @@
 127.0.0.1 xz.dashi88.com
 127.0.0.1 xz.sjdingyang.com
 127.0.0.1 xzihe.com
-127.0.0.1 y.gtimg.cn.sched.ssd.tdnsv6.com
 127.0.0.1 y0urf1rstd0wnl0ad.com
 127.0.0.1 ya1234567.msns.cn
 127.0.0.1 yanta.sx.cn
@@ -9651,7 +9637,6 @@
 127.0.0.1 mxdm.qq.com
 127.0.0.1 naonao.qq.com
 127.0.0.1 nextstudios.com
-127.0.0.1 nutty.gtimg.com
 127.0.0.1 o.data.mistat.xiaomi.com
 127.0.0.1 pch.qpic.cn
 127.0.0.1 pic.cfm.qq.com
@@ -11304,7 +11289,6 @@
 127.0.0.1 activision.helpshift.com
 127.0.0.1 activity.douin.xyz
 127.0.0.1 activity.doumobay.top
-127.0.0.1 activity.gtimg.cn
 127.0.0.1 activity.hdslb.com
 127.0.0.1 activity.huaweicloud.com
 127.0.0.1 activity.infinitus.com.cn.w.kunlunno.com
@@ -17729,7 +17713,6 @@
 127.0.0.1 s3m.nzwgs.com
 127.0.0.1 s3m4.nzwgs.com
 127.0.0.1 s4.cnzz.com
-127.0.0.1 s4.music.126.net
 127.0.0.1 s4.qhimg.com
 127.0.0.1 s4.ssl.qhres.com
 127.0.0.1 s4.vip.wpscdn.cn
@@ -23022,7 +23005,6 @@
 127.0.0.1 xzx.jia.com
 127.0.0.1 y.baidu.mobi
 127.0.0.1 y.cmhaoso.top
-127.0.0.1 y.gtimg.cn
 127.0.0.1 y.hcf18.cn
 127.0.0.1 y.tb.cn
 127.0.0.1 y099.cn
