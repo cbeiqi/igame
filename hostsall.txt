@@ -3246,7 +3246,6 @@
 127.0.0.1 bigtable.googleapis.com
 127.0.0.1 bigtableadmin.googleapis.com
 127.0.0.1 bikesopden.com
-127.0.0.1 bilibilifaka.com
 127.0.0.1 bional-dested.icu
 127.0.0.1 bitads.io
 127.0.0.1 bitcointraffic.ltd
@@ -8174,7 +8173,6 @@
 127.0.0.1 www.benshisem.cn
 127.0.0.1 www.bhxqrd.gov.cn
 127.0.0.1 www.biao35.com
-127.0.0.1 www.bilibilifaka.com
 127.0.0.1 www.bilijk.tk
 127.0.0.1 www.biyoujun.com
 127.0.0.1 www.bjcyh.com.cn
@@ -14903,7 +14901,6 @@
 127.0.0.1 inte.theta.sogoucdn.com
 127.0.0.1 inteliotech.com
 127.0.0.1 intelrecmd.qq.com
-127.0.0.1 interface.music.163.com
 127.0.0.1 internal-api-sentry.feishu.cn
 127.0.0.1 internal-api.crc.feishu.cn
 127.0.0.1 internal-api.feishu.cn
@@ -15441,7 +15438,6 @@
 127.0.0.1 ld2.tcdn.qq.com
 127.0.0.1 ldj.changyou.com
 127.0.0.1 lds.4399.com
-127.0.0.1 le1-prod-all-gs-gzlj.bilibiligame.net
 127.0.0.1 leaders.cntv.cn
 127.0.0.1 leapflow.firstleap.cn
 127.0.0.1 learn.classba.cn
@@ -16375,7 +16371,6 @@
 127.0.0.1 muchen.cloud
 127.0.0.1 mudongys.885065.cn
 127.0.0.1 mumu.wodemo.net
-127.0.0.1 music.163.com
 127.0.0.1 music.dbankcdn.com
 127.0.0.1 music.gtimg.com
 127.0.0.1 music.luoliwen.tk
@@ -18366,7 +18361,6 @@
 127.0.0.1 ssv.admaster.com.cn
 127.0.0.1 st.house.qq.com
 127.0.0.1 st.moneydata.hk
-127.0.0.1 st.music.163.com
 127.0.0.1 sta.book.qq.com
 127.0.0.1 sta.toutiao.com
 127.0.0.1 star.ifensi.com
