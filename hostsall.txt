@@ -12111,8 +12111,6 @@
 127.0.0.1 blym.cn
 127.0.0.1 bm762.cn
 127.0.0.1 bm768.cn
-127.0.0.1 bmob-cdn-11051.bmobcloud.com
-127.0.0.1 bmob.cn
 127.0.0.1 bmwsteelart.com
 127.0.0.1 bmwusedcar.bmw.com.cn
 127.0.0.1 bnea.helpshift.com
@@ -16711,7 +16709,6 @@
 127.0.0.1 open.tengmed.com
 127.0.0.1 open.toutiao.com
 127.0.0.1 open.uc.cn
-127.0.0.1 open2.bmob.cn
 127.0.0.1 openapi-fxg.jinritemai.com
 127.0.0.1 openapi-moneyloan.snssdk.com
 127.0.0.1 openapi.finance.qq.com
@@ -20447,7 +20444,6 @@
 127.0.0.1 www.blogsearch.google.cn
 127.0.0.1 www.bluestarfield.com
 127.0.0.1 www.bmn.net.cn
-127.0.0.1 www.bmob.cn
 127.0.0.1 www.bmwsteelart.com
 127.0.0.1 www.bnqkl.cn
 127.0.0.1 www.bodusz.com
