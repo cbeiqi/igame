@@ -23572,7 +23572,6 @@
 127.0.0.1 1172725746.uttcare.com
 127.0.0.1 13350466.iplink.com.cn
 127.0.0.1 33200.club
-127.0.0.1 3glogo.gtimg.com
 127.0.0.1 9.url.cn
 127.0.0.1 anji.f3322.net
 127.0.0.1 appframe.qq.com
@@ -23601,7 +23600,6 @@
 127.0.0.1 gts.appis.cn
 127.0.0.1 gxmov.a.yximgs.com
 127.0.0.1 halfway.dynv6.net
-127.0.0.1 hb.qlogo.cn
 127.0.0.1 hbycfyg.xyz
 127.0.0.1 hiwx.f3322.net
 127.0.0.1 hnxysy.f3322.net
@@ -23641,17 +23639,11 @@
 127.0.0.1 p29.cache.qcloudcdn.com
 127.0.0.1 ptpt.com.cn
 127.0.0.1 puffer.5.736681645.tc.gcloudgbs.com
-127.0.0.1 q.qlogo.cn
-127.0.0.1 q1.qlogo.cn
 127.0.0.1 q1925982196.f3322.net
-127.0.0.1 q2.qlogo.cn
-127.0.0.1 q3.qlogo.cn
-127.0.0.1 q4.qlogo.cn
 127.0.0.1 qdntv.com
 127.0.0.1 qhytomato.f3322.net
 127.0.0.1 qiye.qq.com
 127.0.0.1 qq.kkmu.club
-127.0.0.1 qzapp.qlogo.cn
 127.0.0.1 recruit.qq.com
 127.0.0.1 recruitment.qq.com
 127.0.0.1 report.qqweb.qq.com
@@ -23660,17 +23652,7 @@
 127.0.0.1 sdwfxs.iask.in
 127.0.0.1 simplie.net
 127.0.0.1 starz123.f3322.net
-127.0.0.1 thirdapp.qlogo.cn
-127.0.0.1 thirdapp0.qlogo.cn
-127.0.0.1 thirdapp1.qlogo.cn
-127.0.0.1 thirdapp2.qlogo.cn
-127.0.0.1 thirdapp3.qlogo.cn
 
-127.0.0.1 thirdqq0.qlogo.cn
-127.0.0.1 thirdqq1.qlogo.cn
-127.0.0.1 thirdqq2.qlogo.cn
-127.0.0.1 thirdqq3.qlogo.cn
-127.0.0.1 thirdqq4.qlogo.cn
 127.0.0.1 tiandin.com
 127.0.0.1 tianqin.qq.com
 127.0.0.1 tlw.f3322.org
