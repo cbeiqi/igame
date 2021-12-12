@@ -275,7 +275,6 @@
 127.0.0.1 image.smoba.qq.com.cloud.tc.qq.com
 127.0.0.1 down.pandora.qq.com.cloud.tc.qq.com
 127.0.0.1 image.smoba.qq.com
-127.0.0.1 pvp.qq.com
 127.0.0.1 dlied1.back.tcdn.qq.com
 127.0.0.1 dlied4.myapp.com.sched.dlied1.tdnsv5.com
 127.0.0.1 weixinc2c.tc.qq.com
@@ -745,7 +744,6 @@
 127.0.0.1 m2.map.gtimg.com
 127.0.0.1 dz.qq.com
 127.0.0.1 dm.3366.com
-127.0.0.1 pvp.qq.com.cloud.tc.qq.com
 127.0.0.1 qgcdn1.gtimg.com
 127.0.0.1 x.eafifa.qq.com
 127.0.0.1 xycq.qq.com
@@ -9460,7 +9458,6 @@
 127.0.0.1 pull-flv-l1-hs.pstatp.com
 127.0.0.1 pull-flv-l1.ixigua.com
 127.0.0.1 purl.tencentcs.com
-127.0.0.1 pvp.qq.com.x2.sched.dcloudstc.com
 127.0.0.1 pwg.gtimg.cn
 127.0.0.1 qdesk.qq.com
 127.0.0.1 qniqiyi-yhxyt-cn-idve4lt.qiniudns.com
@@ -10515,7 +10512,6 @@
 127.0.0.1 2img.mgtv.com
 127.0.0.1 2u3zu.cn
 127.0.0.1 3.im.guokr.com
-127.0.0.1 3.pvp.qq.com
 127.0.0.1 3.qq.com.cloud.tc.qq.com
 127.0.0.1 3.zhehome.cn
 127.0.0.1 30.me
