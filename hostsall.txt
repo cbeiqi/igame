@@ -32370,9 +32370,6 @@
 127.0.0.1 photo.qpic.cn
 127.0.0.1 ppddz.qq.com
 127.0.0.1 prosoycrabmall.co.kr
-127.0.0.1 pvp.qq.com
-127.0.0.1 pvp.qq.com.cloud.tc.qq.com
-127.0.0.1 pvp.qq.com.x2.sched.dcloudstc.com
 127.0.0.1 qdfdd.com
 127.0.0.1 qgi1.com
 127.0.0.1 qqcshow3.com
