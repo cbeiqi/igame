@@ -1820,7 +1820,6 @@
 127.0.0.1 backup.wode490390.cn
 127.0.0.1 bad.wode490390.cn
 127.0.0.1 baiding.doudi.xyz
-127.0.0.1 baidu.cn
 127.0.0.1 baike.qq.com
 127.0.0.1 ban.wode490390.cn
 127.0.0.1 bandarjudiindo.business.site
@@ -6297,7 +6296,6 @@
 127.0.0.1 www.autohome.com.cn
 127.0.0.1 www.awezz.com
 127.0.0.1 www.baicmotor.com
-127.0.0.1 www.baidu.cn
 127.0.0.1 www.baishancloud.com
 127.0.0.1 www.bandpage.com
 127.0.0.1 www.baomihua.com
@@ -10066,7 +10064,6 @@
 127.0.0.1 cpa.gaodun.com
 127.0.0.1 cphi-china.cn
 127.0.0.1 cpicpi.b2b.youboy.com
-127.0.0.1 cpro.baidu.cn
 127.0.0.1 cpsw.cn
 127.0.0.1 cptz988.cocom
 127.0.0.1 cpushapi.blackshark.com
@@ -12908,7 +12905,6 @@
 127.0.0.1 m.app.cctv.com
 127.0.0.1 m.apphta.com
 127.0.0.1 m.aq.qq.com
-127.0.0.1 m.baidu.cn
 127.0.0.1 m.baidu.mobi
 127.0.0.1 m.banbaowang.com
 127.0.0.1 m.banzhu111.com
